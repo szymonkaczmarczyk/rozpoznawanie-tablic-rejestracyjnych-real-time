@@ -3,6 +3,9 @@ __pycache__/
 .pytest_cache/
 
 *.md
+!README.md
+!README.en.md
+!docs/jak-dziala-kod.md
 .claude/
 
 data/
